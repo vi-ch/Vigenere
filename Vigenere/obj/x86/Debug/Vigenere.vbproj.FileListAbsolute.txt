@@ -1,0 +1,12 @@
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\bin\Debug\Vigenere.exe
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\bin\Debug\Vigenere.pdb
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\bin\Debug\Vigenere.xml
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\obj\x86\Debug\Vigenere.exe
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\obj\x86\Debug\Vigenere.xml
+C:\Users\Vit\documents\visual studio 2010\Projects\Vigenere\Vigenere\obj\x86\Debug\Vigenere.pdb
+C:\Users\Vit\Documents\Visual Studio 2010\Projects\Vigenere\Vigenere\obj\x86\Debug\WindowsApplication1.abtVigenere.resources
